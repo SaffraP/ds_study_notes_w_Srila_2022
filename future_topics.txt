@@ -1,0 +1,17 @@
+Linear regression summary values 
+  - pval 
+  - f stat
+  - etc
+
+Brandon Foltz playlists 
+  - Playlist 1 [DONE]
+  - Playlist 2 [IN PROGRESS]
+  - Playlist 3 [NOT STARTED]
+  - Playlist 4 [NOT STARTED]
+  - etc
+
+
+
+
+
+
